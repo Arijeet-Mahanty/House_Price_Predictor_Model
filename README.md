@@ -25,7 +25,7 @@ Model Training: Training the Linear Regression model on the training data.
 Prediction: Testing the model's accuracy on unseen data.
 
 # 🚀 How to Use
-Clone this repository: git clone https://github.com/your-username/house-price-prediction.git
+Clone this repository: git clone https://github.com/Arijeet-Mahanty/house-price-prediction.git
 
 Ensure you have the required libraries installed: pip install pandas scikit-learn matplotlib
 
